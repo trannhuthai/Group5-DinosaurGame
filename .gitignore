@@ -28,5 +28,6 @@
 
 # Executables
 *.exe
+!special.exe
 *.out
 *.app
